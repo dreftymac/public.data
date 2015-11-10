@@ -1,0 +1,43 @@
+### <beg-file_info>
+### main:
+###   - date: created="Tue Nov 10 07:36:01 2015"
+###     last: lastmod="Tue Nov 10 07:36:01 2015"
+###     tags:   tags 
+###     author: created="__author__"
+###     dreftymacid:    "mimer_jumpy_walther"
+###     seealso: |
+###         *
+###     desc: |
+###         combined csv data islands
+### <end-file_info>
+
+main:
+
+  - caption:  Prefixes for multiples of bits or bytes 
+    rectype:  rrmini02
+    datebeg:  Tue Nov 10 07:34:03 2015 
+    dateend:  Tue Nov 10 07:34:03 2015 
+    tags:     byte, data, technology
+    desc: | 
+      relative data size quantity
+    seealso:
+      - https://en.wikipedia.org/wiki/Binary_prefix
+    dreftymacid: vowel_fitly_atop
+    wwbody: |
+        Value ,IEC, JEDEC , base
+        1000^1 ,k ,kilo , decimal
+        1000^2 ,M ,mega , decimal
+        1000^3 ,G ,giga , decimal
+        1000^4 ,T ,tera , decimal
+        1000^5 ,P ,peta , decimal
+        1000^6 ,E ,exa , decimal
+        1000^7 ,Z ,zetta , decimal
+        1000^8 ,Y ,yotta , decimal
+        1024^1 ,Ki , kibi , binary
+        1024^2 ,Mi , mebi , binary
+        1024^3 ,Gi , gibi , binary
+        1024^4 ,Ti , tebi , binary
+        1024^5 ,Pi , pebi , binary
+        1024^6 ,Ei , exbi , binary
+        1024^7 ,Zi , zebi , binary
+        1024^8 ,Yi , yobi , binary
