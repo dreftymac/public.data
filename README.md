@@ -1,2 +1,2 @@
-# csvdata01
-csv data for use with flashcard software and related contexts
+# publicdata
+machine-readable data for use with flashcard software and related contexts
