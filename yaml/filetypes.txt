@@ -1,0 +1,304 @@
+items:
+  - dotex:  ".aif"
+    desc:   audio interchange file format
+    type:  binary
+
+
+  - dotex:  ".aiff"
+    desc:   audio interchange file format
+    type:  binary
+
+
+  - dotex:  ".au"
+    desc:   basic audio
+    type:  binary
+
+
+  - dotex:  ".avi"
+    desc:   multimedia audio/video
+    type:  binary
+
+
+  - dotex:  ".bat"
+    desc:   pc batch file
+    type:  text
+
+
+  - dotex:  ".bmp"
+    desc:   windows bitmap
+    type:  binary
+
+
+  - dotex:  ".class"
+    desc:   java files
+    type:  binary
+
+
+  - dotex:  ".java"
+    desc:   java files
+    type:  binary
+
+
+  - dotex:  ".csk"
+    desc:   clarisworks for windows
+    type:  binary
+
+
+  - dotex:  ".cvs"
+    desc:   canvas
+    type:  binary
+
+
+  - dotex:  ".dbf"
+    desc:   dbase ii, iii, iv data
+    type:  binary
+
+
+  - dotex:  ".dif"
+    desc:   data interchange format
+    type:  binary
+
+
+  - dotex:  ".doc"
+    desc:   msft word for windows/word97
+    type:  binary
+
+
+  - dotex:  ".xls"
+    desc:   msft excel spreadsheet
+    type:  binary
+
+
+  - dotex:  ".ppt"
+    desc:   msft powerpoint
+    type:  binary
+
+
+  - dotex:  ".docx"
+    desc:   msft word
+    type:  binary
+
+
+  - dotex:  ".xlsx"
+    desc:   msft excel spreadsheet
+    type:  binary
+
+
+  - dotex:  ".pptx"
+    desc:   msft powerpoint
+    type:  binary
+
+
+  - dotex:  ".eps"
+    desc:   encapsulated postscript
+    type:  binary
+
+
+  - dotex:  ".exe"
+    desc:   pc application
+    type:  binary
+
+
+  - dotex:  ".fm3"
+    desc:   filemaker pro databases (the numbers following represent the version
+    type:  binary
+
+
+  - dotex:  ".gif"
+    desc:   graphics interchange format
+    type:  binary
+
+
+  - dotex:  ".hqx"
+    desc:   macintosh binhex
+    type:  binary
+
+
+  - dotex:  ".htm"
+    desc:   web page source text
+    type:  text
+
+
+  - dotex:  ".html"
+    desc:   web page source text
+    type:  text
+
+
+  - dotex:  ".jpeg"
+    desc:   jpeg graphic
+    type:  binary
+
+
+  - dotex:  ".jpg"
+    desc:   jpeg graphic
+    type:  binary
+
+
+  - dotex:  ".mac"
+    desc:   macpaint
+    type:  binary
+
+
+  - dotex:  ".map"
+    desc:   web page imagemap
+    type:  binary
+
+
+  - dotex:  ".mdb"
+    desc:   msft access database
+    type:  binary
+
+
+  - dotex:  ".midi"
+    desc:   midi sound
+    type:  binary
+
+
+  - dotex:  ".mid"
+    desc:   midi sound
+    type:  binary
+
+
+  - dotex:  ".mov"
+    desc:   quicktime audio/video
+    type:  binary
+
+
+  - dotex:  ".qt"
+    desc:   quicktime audio/video
+    type:  binary
+
+
+  - dotex:  ".pdf"
+    desc:   acrobat -portable document format
+    type:  binary
+
+
+  - dotex:  ".t65"
+    desc:   pagemaker (the numbers following represent the version
+    type:  binary
+
+
+  - dotex:  ".png"
+    desc:   public network graphic
+    type:  binary
+
+
+  - dotex:  ".psd"
+    desc:   adobe photoshop
+    type:  binary
+
+
+  - dotex:  ".psp"
+    desc:   paintshop pro
+    type:  binary
+
+
+  - dotex:  ".qxd"
+    desc:   quarkxpress
+    type:  binary
+
+
+  - dotex:  ".ra"
+    desc:   realaudio
+    type:  binary
+
+
+  - dotex:  ".rtf"
+    desc:   rich text format
+    type:  binary
+
+
+  - dotex:  ".sit"
+    desc:   stuffit compressed archive
+    type:  binary
+
+
+  - dotex:  ".tar"
+    desc:   unix tar compressed archive
+    type:  binary
+
+
+  - dotex:  ".tif"
+    desc:   tiff graphic
+    type:  binary
+
+
+  - dotex:  ".txt"
+    desc:   plain text 
+    type:  text
+    
+  - dotex:  ".py"
+    desc:   python source
+    type:  text    
+
+  - dotex:  ".pl"
+    desc:   perl source
+    type:  text    
+
+  - dotex:  ".js"
+    desc:   javascript source
+    type:  text    
+
+  - dotex:  ".rb"
+    desc:   ruby source
+    type:  text
+    
+  - dotex:  ".yaml"
+    desc:   yaml source
+    type:  text       
+
+  - dotex:  ".xml"
+    desc:   xml source
+    type:  text       
+
+  - dotex:  ".xslt"
+    desc:   xslt source
+    type:  text       
+
+  - dotex:  ".wav"
+    desc:   windows sound
+    type:  binary
+
+
+  - dotex:  ".wk3"
+    desc:   lotus 1-2-3 (the numbers following represent the version
+    type:  binary
+
+
+  - dotex:  ".wks"
+    desc:   ms works
+    type:  binary
+
+
+  - dotex:  ".wpd"
+    desc:   wordperfect (the numbers following represent the version
+    type:  binary
+
+
+  - dotex:  ".wp5"
+    desc:   wordperfect (the numbers following represent the version
+    type:  binary
+
+
+  - dotex:  ".zip"
+    desc:   pc zip compressed archive
+    type:  binary
+
+## href="c:/sm/docs/mytrybits/y/tryyaml/dynamicyaml/devlog.txt"
+## href="c:/sm/docs/mymedia/2014/git/github/dynamic.yaml/py/ddyaml.py"
+__yaml__:
+
+  - &uuimitate_pupil
+    caption:      caption
+    rowkeep: 1
+    uuid:         uuimitate_pupil
+    template:         |
+      {% for row in items -%}
+        {{"\n"}}
+        - dotex:  {{ row.dotex |jjhug }}
+          desc:   {{ row.desc }}
+          type:  {{ row.type }}
+      {% endfor %}
+      
+
