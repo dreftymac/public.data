@@ -1,2 +1,7 @@
 # publicdata
-machine-readable data for use with flashcard software and related contexts
+
+> machine-readable data 
+
+## links
+
+* https://json-datasets.zeef.com/jdorfman
