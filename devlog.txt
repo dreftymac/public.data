@@ -15,3 +15,18 @@
 head:
 
 main:
+
+  - caption:  acrophonic-alphabets
+    rectype:  rrmini03
+    datebeg:  Sat Jul 30 15:59:18 2016 
+    dateend:  Sat Jul 30 15:59:18 2016 
+    tags:     nato,alphabet,  
+    category: __category__
+    desc:     |
+      * __desc__
+    seealso:  |
+      * https://github.com/zeke/acrophonic-alphabets
+    dreftymacid: lusty_haul_creative
+    wwbody: |
+      __wwbody__
+
