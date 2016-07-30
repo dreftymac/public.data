@@ -1,6 +1,6 @@
-# publicdata
+# public.data
 
-> machine-readable data 
+> opensource machine-readable data 
 
 ## links
 
