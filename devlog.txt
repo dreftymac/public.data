@@ -3,13 +3,14 @@
 ###   - date: created="Sat, Jul 30, 2016  3:41:38 PM"
 ###     last: lastmod="Sat, Jul 30, 2016  3:41:38 PM"
 ###     tags: devlog,
-###     dreftymacid: "__dreftymacid__"
+###     dreftymacid: "publicdata_adverts_serial"
 ###     filetype: "yaml"
 ###     seealso: |
 ###         * __seealso__
 ###     desc: |
 ###         * __desc__
 ### <end-file_info>
+### href="smartpath://mymedia/2014/git/github/publicdata/devlog.txt"
 
 head:
 
